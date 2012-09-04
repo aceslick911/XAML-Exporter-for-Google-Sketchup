@@ -15,7 +15,7 @@ Reason for this GIT is because the original implementation:
 
 
 How to use:
-Copy the Ruby .rb file into your "Google SketchUp x\Plugins" directory and start google sketchup. 
+Download the source code then copy the Ruby xamlExporter3.rb file into your "Google SketchUp x\Plugins" directory and start google sketchup. 
 You will find this plugin inside the "Plugins" menu item.
 
 Current Problems:
